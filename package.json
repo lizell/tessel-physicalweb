@@ -1,0 +1,15 @@
+{
+  "name": "tessel-physicalweb",
+  "version": "0.0.1",
+  "description": "Athega Code Base Physical Web Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Lizell <christian.lizell@athega.se> (http://athega.se/)",
+  "license": "ISC",
+  "dependencies": {
+    "ble-ble113a": "^0.2.0",
+    "eddystone-beacon": "^1.0.3"
+  }
+}
